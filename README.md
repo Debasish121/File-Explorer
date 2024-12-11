@@ -1,6 +1,6 @@
-# React Tree File-Manager
+# React File-Explorer
 
-React Tree File-Manager is a simple and efficient file management system built with React. It allows users to easily manage files and folders within an interactive tree structure, ideal for seamless integration into React applications.
+React Tree File-Explorer is a simple and efficient file management system built with React. It allows users to easily manage files and folders within an interactive tree structure, ideal for seamless integration into React applications.
 
 ## Key Features
 
